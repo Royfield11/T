@@ -17,3 +17,31 @@ Alfred Russel Wallace, a pioneering biogeographer, made several critical conclus
 3. **Faunal Regions**: Identified and classified global regions based on species distribution, laying the groundwork for modern biogeography.
 4. **Biodiversity Patterns**: Recognized patterns in species richness and distribution, linking them to geological and climatic factors.
  
+
+
+
+
+
+
+
+the species-area relationship using logarithms.
+
+
+log S = lo9gC + log A
+
+
+![image](https://github.com/user-attachments/assets/8bb638ed-35bd-47b6-a434-1dc77f10ac8a)
+
+
+
+
+![image](https://github.com/user-attachments/assets/bf002884-b50a-4dee-bf21-0ff557092fe6)
+
+
+
+
+
+
+
+
+
